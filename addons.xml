@@ -268,7 +268,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.liveshedule" name="CableOi Live Schedule" version="2016.10.14" provider-name="CableOi">
+<addon id="plugin.video.liveshedule" name="CableOi Live Schedule" version="2016.10.18" provider-name="CableOi">
   <requires>
    <import addon="xbmc.python" version="2.19.0"/>   
    <import addon="script.module.simplejson" version="3.3.0"/>  
