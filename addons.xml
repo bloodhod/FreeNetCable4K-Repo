@@ -13,7 +13,7 @@
 	</extension>
 </addon>
 
-<addon id="script.ftvguide4K" name="FTV Guide" version="3.2.00" provider-name="rayw1986, bluezed, FreeNetCable">
+<addon id="script.ftvguide4K" name="CableOi Guide" version="4.0.00" provider-name="rayw1986, bluezed, FreeNetCable">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0"/>
 		<import addon="script.module.simplejson" version="2.0.10"/>
@@ -78,7 +78,7 @@
 	</extension>
 </addon>
 
-<addon id="script.ftvguideSpanish4K" name="FTV Guide Spanish" version="3.2.00" provider-name="rayw1986, bluezed, FreeNetCable">
+<addon id="script.ftvguideSpanish4K" name="CableOi Guide Spanish" version="4.0.00" provider-name="rayw1986, bluezed, FreeNetCable">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0"/>
 		<import addon="script.module.simplejson" version="2.0.10"/>
