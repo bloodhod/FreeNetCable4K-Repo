@@ -456,7 +456,7 @@
 
 <addon id="plugin.video.cableoiiptv"
        name="[COLOR gold]IPTV[/COLOR]"
-       version="2.0"
+       version="2.1"
        provider-name="cableoiiptv">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
